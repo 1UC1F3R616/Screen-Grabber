@@ -4,7 +4,11 @@ import pyfiglet
 import time
 from PIL import ImageGrab
 from pynput.keyboard import Key, Controller, Listener
+from ctypes import windll
 
+
+user32 = windll.user32
+user32.SetProcessDPIAware()
 
 def help_manual():
     print('\n\nScreenshots are stored at place where this application is present.')
