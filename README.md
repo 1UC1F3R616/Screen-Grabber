@@ -4,6 +4,9 @@ One hit Screenshot, ain't that lovely? 😏
 </br>
 
 👀 Screenshot whatever you wish just by hitting the left shift.
+</br>
+🤖 Download 'exe' file and skip every requirement.
+</br>
 
 </br>
 
