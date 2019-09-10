@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/Screen-Grabber.svg)](http://hits.dwyl.io/D-E-F-E-A-T/Screen-Grabber)
+
 # Screen-Grabber
 One hit Screenshot, ain't that lovely? 😏
 
