@@ -23,3 +23,6 @@ One hit Screenshot, ain't that lovely? 😏
 
 ### Requirements
 > pip install -r requirements.txt
+
+
+*Supports Windows OS and Mac OS*
